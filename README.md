@@ -11,5 +11,5 @@
 - Status: *(Coming soon)*  
 
 ## 📊 GitHub Stats  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=github_dark)  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Logicstudiosbot&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Logicstudiosbot&layout=compact&theme=github_dark)  
